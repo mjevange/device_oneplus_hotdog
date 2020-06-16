@@ -1,4 +1,5 @@
 # Binaries
+/(vendor|system/vendor)/bin/ks                    u:object_r:mdm_helper_exec:s0
 /(vendor|system/vendor)/bin/oemnvbkdaemon         u:object_r:mdm_helper_exec:s0
 
 # Block devices
